@@ -33,3 +33,8 @@ This is harder for spam filters to detect since each email would be coming from 
 ### YouTube Channel
 
 https://www.youtube.com/c/HA-MRX
+
+
+### Video Tutorial 
+
+https://www.youtube.com/watch?v=DMMKorCqSmg&t=6s
