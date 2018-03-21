@@ -23,7 +23,7 @@ This is harder for spam filters to detect since each email would be coming from 
 ### python Emailbomb
 
 
-### ScreenShot
+-ScreenShot
 
 
 ![capture](https://user-images.githubusercontent.com/33704360/37691443-29be80c2-2cc3-11e8-87d2-db8de9bcf00d.PNG)
